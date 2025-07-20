@@ -1,0 +1,6 @@
+vk_api
+requests
+beautifulsoup4
+regex
+ddgs
+nltk
